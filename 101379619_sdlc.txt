@@ -7,3 +7,5 @@ DevOps Engineers are responsible for automating processes, creating tools and ma
 DevOps Engineers are responsible for identifying and implementing ways to streamline the software delivery process. This may include automating processes, such as building, testing, and deploying code, or creating tools that improve the development process, such as version control and continuous integration.
 
 DevOps Engineers also need to stay up to date with the latest technologies and trends in the industry, such as containerization, microservices, and serverless architectures. By understanding and utilizing these technologies, DevOps Engineers are able to improve software delivery cycles and reduce deployment time.
+
+In addition to automation and tooling, DevOps Engineers are responsible for ensuring that operations teams are able to maintain system stability and performance.
