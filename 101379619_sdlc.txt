@@ -3,3 +3,5 @@ important of learning DevOps engineer in software development cycle
 DevOps Engineer is a position that is becoming increasingly important in software development cycles. A DevOps Engineer is a hybrid role between software development and operation that works to improve the relationship between the two teams, and enable faster and more efficient software delivery.
 
 DevOps Engineers are responsible for automating processes, creating tools and managing systems. They also work to ensure that development teams are able to move quickly while meeting quality standards, and ensure that operations teams are able to maintain stability and performance.
+
+DevOps Engineers are responsible for identifying and implementing ways to streamline the software delivery process. This may include automating processes, such as building, testing, and deploying code, or creating tools that improve the development process, such as version control and continuous integration.
