@@ -11,3 +11,6 @@ The course begins by introducing students to the core concepts of DevOps, such a
 The course also covers continuous integration, which is the process of automatically building, testing, and deploying software. Students will learn about the benefits of continuous integration and how to configure their own continuous integration systems.
 
 The course also covers configuration management,
+
+ which is the process of managing the configuration of an application or system. Students will learn about popular configuration management tools such as Ansible and Chef, and how to use them to manage an application's configuration.
+
