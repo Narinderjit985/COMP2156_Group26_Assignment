@@ -6,3 +6,7 @@ Assignment1
 #4 Muskan
 
 The file  contain information about George Brown college was added.
+
+The file  contain information about COMP 2156 DevOps course was added.
+
+
