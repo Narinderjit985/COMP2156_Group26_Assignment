@@ -5,3 +5,5 @@ George Brown College's COMP 2156 DevOps course provides students with an introdu
  This course covers the basics of DevOps, including version control, continuous integration, configuration management, and deployment automation.
 
 The course begins by introducing students to the core concepts of DevOps, such as collaboration and automation. The course then moves on to discuss version control and how to manage multiple versions of an application.
+
+ Students will learn about popular open source version control systems such as Git, and how to use them effectively.
