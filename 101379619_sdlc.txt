@@ -13,3 +13,5 @@ In addition to automation and tooling, DevOps Engineers are responsible for ensu
 This includes setting up monitoring and alerting systems to detect any issues that may arise. DevOps Engineers will also need to collaborate with operations teams to ensure that they are able to quickly and effectively respond to any problems or outages.
 
 DevOps Engineers also need to be able to think strategically and be comfortable communicating with other teams. They will need to be able to clearly explain their ideas and solutions to both technical and non-technical stakeholders, and be able to collaborate with other teams to ensure that everyone is working towards a common goal.
+
+In short, DevOps Engineers are responsible for improving the software delivery process, ensuring system stability and performance, and collaborating with other teams.
