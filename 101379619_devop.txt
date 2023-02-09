@@ -17,3 +17,6 @@ The course also covers configuration management,
 Finally, the course covers deployment automation, which is the process of automating the deployment of an application. Students will learn about popular deployment automation tools such as Jenkins and Kubernetes, and how to use them to automate the deployment of an application.
 
 Overall, COMP 2156 DevOps is an excellent course for those interested in learning the fundamentals of DevOps.
+
+
+It provides a comprehensive overview of the principles and practices of DevOps, and provides students with the necessary knowledge and skills to effectively use DevOps in their own projects.
