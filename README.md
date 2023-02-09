@@ -9,4 +9,4 @@ The file  contain information about George Brown college was added.
 
 The file  contain information about COMP 2156 DevOps course was added.
 
-
+file will contain details about important of learning DevOps engineer in software development cycle was added
