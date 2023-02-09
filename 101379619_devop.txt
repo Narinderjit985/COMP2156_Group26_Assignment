@@ -14,3 +14,4 @@ The course also covers configuration management,
 
  which is the process of managing the configuration of an application or system. Students will learn about popular configuration management tools such as Ansible and Chef, and how to use them to manage an application's configuration.
 
+Finally, the course covers deployment automation, which is the process of automating the deployment of an application. Students will learn about popular deployment automation tools such as Jenkins and Kubernetes, and how to use them to automate the deployment of an application.
