@@ -1,3 +1,4 @@
 this is the commit section of devops file
 here are the great things about devops
 1. DevOps is a combination of software development and operations.
+2. It is an approach to software development and delivery that emphasizes collaboration between development and operations teams.
