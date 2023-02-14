@@ -8,3 +8,4 @@ here are the great things about devops
 6. DevOps requires a shift in focus from traditional software development processes to automation.
 7. DevOps requires the use of tools such as configuration management, continuous  integration and continuous delivery.
 8. DevOps requires a culture of shared responsibility and accountability among all members of the team.
+9. DevOps also requires a focus on quality assurance, security, and scalability.
