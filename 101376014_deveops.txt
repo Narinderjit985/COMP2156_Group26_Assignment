@@ -4,3 +4,4 @@ here are the great things about devops
 2. It is an approach to software development and delivery that emphasizes collaboration between development and operations teams.
 3. DevOps helps to reduce the time it takes to develop, test, deploy and maintain applications.
 4. The primary goal of DevOps is to improve the speed and quality of software releases while reducing costs.
+5. DevOps requires a culture shift to foster collaboration and communication between development and operations teams.
