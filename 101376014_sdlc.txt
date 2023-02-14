@@ -6,3 +6,4 @@ goiing to do the first commit
 4. George Brown College offers diploma, certificate, and degree programs in a variety of fields such as business, hospitality and tourism, health sciences, information technology, and more.
 5. The college is also home to the renowned Centre for Arts and Design, which offers students the opportunity to study Fine Arts, Fashion Studies, Jewellery Arts, and Interior Design.
 6. George Brown College is affiliated with the University of Toronto and other universities in the Greater Toronto Area.
+7. It offers a variety of student services such as a library, student health services, career services, and a student association.
