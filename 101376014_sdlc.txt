@@ -9,3 +9,4 @@ DevOps engineer in software development cycle.
 6. DevOps engineers are responsible for creating and maintaining a continuous integration and delivery (CI/CD) pipeline, which allows developers to rapidly deploy code changes to production.
 7. DevOps engineers are responsible for setting up and managing the infrastructure and tools needed to support a DevOps process.
 8. DevOps engineers are responsible for automating the deployments of applications and services, in order to reduce the time needed to deploy changes and to ensure that the system remains up-to-date.
+9. DevOps engineers are responsible for managing the configuration of the system and for ensuring that the system is properly secured.
