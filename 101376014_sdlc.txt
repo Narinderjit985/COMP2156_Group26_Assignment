@@ -2,3 +2,4 @@ this is Ishpreet Singh doing first commit
  important of learning
 DevOps engineer in software development cycle.
 1. DevOps engineers promote collaboration between developers and operations teams, allowing them to work together to identify and implement solutions more efficiently.
+2. DevOps engineers streamline the software development life cycle by automating processes, eliminating manual handoffs, and reducing the time needed for code to reach production.
