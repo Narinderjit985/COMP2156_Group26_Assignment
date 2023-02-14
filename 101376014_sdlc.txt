@@ -4,3 +4,4 @@ DevOps engineer in software development cycle.
 1. DevOps engineers promote collaboration between developers and operations teams, allowing them to work together to identify and implement solutions more efficiently.
 2. DevOps engineers streamline the software development life cycle by automating processes, eliminating manual handoffs, and reducing the time needed for code to reach production.
 3. DevOps engineers make sure that the applications and systems are designed in an efficient manner and that they are able to scale up or down depending on the customer demand.
+4. DevOps engineers are responsible for ensuring that the various components of the system are running smoothly, and that the system is secure and compliant with industry standards.
