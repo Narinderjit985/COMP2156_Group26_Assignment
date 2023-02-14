@@ -6,3 +6,4 @@ DevOps engineer in software development cycle.
 3. DevOps engineers make sure that the applications and systems are designed in an efficient manner and that they are able to scale up or down depending on the customer demand.
 4. DevOps engineers are responsible for ensuring that the various components of the system are running smoothly, and that the system is secure and compliant with industry standards.
 5. DevOps engineers are also responsible for monitoring the performance and availability of the system, and for responding to any incidents quickly and efficiently.
+6. DevOps engineers are responsible for creating and maintaining a continuous integration and delivery (CI/CD) pipeline, which allows developers to rapidly deploy code changes to production.
