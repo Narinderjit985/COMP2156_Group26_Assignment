@@ -10,3 +10,4 @@ here are the great things about devops
 8. DevOps requires a culture of shared responsibility and accountability among all members of the team.
 9. DevOps also requires a focus on quality assurance, security, and scalability.
 10. DevOps is an iterative process that seeks to improve existing processes and systems over time.
+thank you  for reading
