@@ -6,4 +6,4 @@ here are the great things about devops
 4. The primary goal of DevOps is to improve the speed and quality of software releases while reducing costs.
 5. DevOps requires a culture shift to foster collaboration and communication between development and operations teams.
 6. DevOps requires a shift in focus from traditional software development processes to automation.
-7. DevOps requires the use of tools such as configuration management, continuous integration and continuous delivery.
+7. DevOps requires the use of tools such as configuration management, continuous  integration and continuous delivery.
