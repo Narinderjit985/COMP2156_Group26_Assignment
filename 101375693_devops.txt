@@ -3,3 +3,4 @@ DevOps is a methodology in the software development and IT industry
  Other than it being a cross-functional combination (and a portmanteau) of the terms and concepts for "development" and "operations", academics and practitioners have not developed a universal definition for the term "DevOps".
  Most often, DevOps is characterized by key principles: shared ownership, workflow automation, and rapid feedback.
  In 2009, the first conference named devopsdays was held in Ghent, Belgium.
+ DevSecOps is an augmentation of DevOps to allow for security practices to be integrated into the DevOps approach.
