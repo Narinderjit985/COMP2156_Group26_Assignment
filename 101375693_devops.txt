@@ -5,3 +5,4 @@ DevOps is a methodology in the software development and IT industry
  In 2009, the first conference named devopsdays was held in Ghent, Belgium.
  DevSecOps is an augmentation of DevOps to allow for security practices to be integrated into the DevOps approach.
  Contrary to a traditional centralized security team model, each delivery team is empowered to factor in the correct security controls into their software delivery.
+ Security practices and testing are performed earlier in the development lifecycle, hence the term "shift left" can be used. Security is tested in three main areas: static, software composition, and dynamic.
