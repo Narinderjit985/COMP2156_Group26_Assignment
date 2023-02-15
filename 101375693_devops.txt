@@ -7,3 +7,4 @@ DevOps is a methodology in the software development and IT industry
  Contrary to a traditional centralized security team model, each delivery team is empowered to factor in the correct security controls into their software delivery.
  Security practices and testing are performed earlier in the development lifecycle, hence the term "shift left" can be used. Security is tested in three main areas: static, software composition, and dynamic.
  Checking the code statically via static application security testing (SAST) is white-box testing with special focus on security.
+ Depending on the programming language, different tools are needed to do such static code analysis.
