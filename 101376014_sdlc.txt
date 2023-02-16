@@ -1,0 +1,14 @@
+this is Ishpreet Singh doing first commit
+ important of learning
+DevOps engineer in software development cycle.
+1. DevOps engineers promote collaboration between developers and operations teams, allowing them to work together to identify and implement solutions more efficiently.
+2. DevOps engineers streamline the software development life cycle by automating processes, eliminating manual handoffs, and reducing the time needed for code to reach production.
+3. DevOps engineers make sure that the applications and systems are designed in an efficient manner and that they are able to scale up or down depending on the customer demand.
+4. DevOps engineers are responsible for ensuring that the various components of the system are running smoothly, and that the system is secure and compliant with industry standards.
+5. DevOps engineers are also responsible for monitoring the performance and availability of the system, and for responding to any incidents quickly and efficiently.
+6. DevOps engineers are responsible for creating and maintaining a continuous integration and delivery (CI/CD) pipeline, which allows developers to rapidly deploy code changes to production.
+7. DevOps engineers are responsible for setting up and managing the infrastructure and tools needed to support a DevOps process.
+8. DevOps engineers are responsible for automating the deployments of applications and services, in order to reduce the time needed to deploy changes and to ensure that the system remains up-to-date.
+9. DevOps engineers are responsible for managing the configuration of the system and for ensuring that the system is properly secured.
+10. DevOps engineers are responsible for setting up and managing the system monitoring tools that are necessary for the system to run at peak performance.
+thank you for reading
