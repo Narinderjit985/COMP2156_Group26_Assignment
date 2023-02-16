@@ -1,0 +1,22 @@
+COMP 2156 DevOps course
+
+George Brown College's COMP 2156 DevOps course provides students with an introduction to the principles and practices of DevOps, a software development approach that emphasizes collaboration between software developers and IT operations professionals.
+
+ This course covers the basics of DevOps, including version control, continuous integration, configuration management, and deployment automation.
+
+The course begins by introducing students to the core concepts of DevOps, such as collaboration and automation. The course then moves on to discuss version control and how to manage multiple versions of an application.
+
+ Students will learn about popular open source version control systems such as Git, and how to use them effectively.
+
+The course also covers continuous integration, which is the process of automatically building, testing, and deploying software. Students will learn about the benefits of continuous integration and how to configure their own continuous integration systems.
+
+The course also covers configuration management,
+
+ which is the process of managing the configuration of an application or system. Students will learn about popular configuration management tools such as Ansible and Chef, and how to use them to manage an application's configuration.
+
+Finally, the course covers deployment automation, which is the process of automating the deployment of an application. Students will learn about popular deployment automation tools such as Jenkins and Kubernetes, and how to use them to automate the deployment of an application.
+
+Overall, COMP 2156 DevOps is an excellent course for those interested in learning the fundamentals of DevOps.
+
+
+It provides a comprehensive overview of the principles and practices of DevOps, and provides students with the necessary knowledge and skills to effectively use DevOps in their own projects.
