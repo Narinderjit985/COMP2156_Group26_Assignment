@@ -1,0 +1,13 @@
+this is the commit section of devops file
+here are the great things about devops
+1. DevOps is a combination of software development and operations.
+2. It is an approach to software development and delivery that emphasizes collaboration between development and operations teams.
+3. DevOps helps to reduce the time it takes to develop, test, deploy and maintain applications.
+4. The primary goal of DevOps is to improve the speed and quality of software releases while reducing costs.
+5. DevOps requires a culture shift to foster collaboration and communication between development and operations teams.
+6. DevOps requires a shift in focus from traditional software development processes to automation.
+7. DevOps requires the use of tools such as configuration management, continuous  integration and continuous delivery.
+8. DevOps requires a culture of shared responsibility and accountability among all members of the team.
+9. DevOps also requires a focus on quality assurance, security, and scalability.
+10. DevOps is an iterative process that seeks to improve existing processes and systems over time.
+thank you  for reading

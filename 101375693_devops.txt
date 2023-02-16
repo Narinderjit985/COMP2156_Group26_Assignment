@@ -1,0 +1,10 @@
+DevOps is a methodology in the software development and IT industry
+ Used as a set of practices and tools, DevOps integrates and automates the work of software development (Dev) and IT operations (Ops) as a means for improving and shortening the systems development life cycle.[1] DevOps is complementary to agile software development; several DevOps aspects came from the agile way of working.
+ Other than it being a cross-functional combination (and a portmanteau) of the terms and concepts for "development" and "operations", academics and practitioners have not developed a universal definition for the term "DevOps".
+ Most often, DevOps is characterized by key principles: shared ownership, workflow automation, and rapid feedback.
+ In 2009, the first conference named devopsdays was held in Ghent, Belgium.
+ DevSecOps is an augmentation of DevOps to allow for security practices to be integrated into the DevOps approach.
+ Contrary to a traditional centralized security team model, each delivery team is empowered to factor in the correct security controls into their software delivery.
+ Security practices and testing are performed earlier in the development lifecycle, hence the term "shift left" can be used. Security is tested in three main areas: static, software composition, and dynamic.
+ Checking the code statically via static application security testing (SAST) is white-box testing with special focus on security.
+ Depending on the programming language, different tools are needed to do such static code analysis.
